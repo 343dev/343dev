@@ -2,7 +2,7 @@ Hello! I’m Andrey Warkentin, a software developer with 10+ years of experien
 
 My primary focus is frontend development. I also work with backend services, databases, automated testing, CI/CD, and containerized deployment when a product requires full-stack development.
 
-## Skills
+**Skills:**
 
 * Building full-stack products end-to-end, from client requirements to deployment (TypeScript, React).
 * Building consistent, maintainable UI systems.
