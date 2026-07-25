@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello! I’m Andrey Warkentin, a software developer with 10+ years of experience building web applications, developer tools, and high-traffic digital products.
 
-<!--
-**343dev/343dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My primary focus is frontend development. I also work with backend services, databases, automated testing, CI/CD, and containerized deployment when a product requires full-stack development.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Building full-stack products end-to-end, from client requirements to deployment (TypeScript, React).
+* Building consistent, maintainable UI systems.
+* Testing at the unit, integration, and end-to-end levels.
+* Setting up fast builds and local dev environments.
+* Automating testing, builds, and deployments.
+* Improving web performance, caching, and rendering.
+* Modernizing legacy applications and migrating them to React.
+* Reviewing code and maintaining technical documentation.
+* Using AI coding assistants to speed up day-to-day development.
