@@ -2,13 +2,6 @@ Hi there 👋 I’m Andrey, a software developer with 10+ years of experience 
 
 My primary focus is frontend development. I also work with backend services, databases, automated testing, CI/CD, and containerized deployment when a product requires full-stack development.
 
-**Skills:**
+---
 
-* Building full-stack products end-to-end, from client requirements to deployment (TypeScript, React).
-* Modernizing legacy applications and migrating them to React.
-* Building consistent, maintainable UI systems.
-* Improving web performance, caching, and rendering.
-* Testing at the unit, integration, and end-to-end levels.
-* Automating testing, builds, and deployments.
-* Reviewing code and maintaining technical documentation.
-* Using AI coding assistants to speed up day-to-day development.
+<a title="Optimizt — CLI image optimization tool" href="https://github.com/343dev/optimizt"><img height="120" src="optimizt.png" /></a>   <a title="harold — Compares frontend project bundles" href="https://github.com/343dev/harold"><img height="120" src="harold.png" /></a>   <a title="languagetool-node — CLI spell and grammar checker" href="https://github.com/343dev/languagetool-node"><img height="120" src="languagetool-node.png" /></a>   <a title="markdown-lint — Markdown code style linter" href="https://github.com/343dev/markdown-lint"><img height="120" src="markdown-lint.png" /></a>
