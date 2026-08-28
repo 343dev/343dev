@@ -1,4 +1,4 @@
-Hi there 👋 I’m Andrey, a software developer with 10+ years of experience building web applications, developer tools, and high-traffic digital products.
+Hi there 👋 I’m Andrey, a software developer with 8+ years of experience building web applications, developer tools, and high-traffic digital products.
 
 My primary focus is frontend development. I also work with backend services, databases, automated testing, CI/CD, and containerized deployment when a product requires full-stack development.
 
